@@ -1,0 +1,6 @@
+playwright
+pandas
+openpyxl
+pywin32
+rich
+python-dotenv
